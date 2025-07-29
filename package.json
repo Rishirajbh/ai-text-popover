@@ -1,0 +1,47 @@
+{
+  "name": "ai-text-popover",
+  "version": "1.0.13",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "AI",
+    "glossary",
+    "popover",
+    "text selection",
+    "AI tooltip",
+    "LLM",
+    "AI assistant",
+    "on-page help",
+    "inline explain",
+    "contextual help",
+    "hover popup",
+    "machine learning",
+    "openai",
+    "groq",
+    "chatbot",
+    "text explainer",
+    "educational tool",
+    "frontend widget",
+    "semantic popup",
+    "web enhancement",
+    "natural language processing",
+    "browser extension",
+    "interactive UI",
+    "GPT",
+    "developer tool"
+  ],
+  "author": {
+    "name": "Rishiraj Bhanji",
+    "email": "rishiraj7b9@gmail.com",
+    "url": "https://www.rishibhanji.com"
+  },
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
